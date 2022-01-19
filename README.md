@@ -8,4 +8,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href='https://cybersecurity.springeropen.com/articles/10.1186/s42400-020-00046-6'>
+        <b> A DGA domain names detection modeling method based on integrating an attention mechanism and deep neural network </b>
+      </a>
+    </td>
+  </tr>
 </table>
