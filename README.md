@@ -36,4 +36,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href='https://www.researchgate.net/figure/Example-of-Snort-IDS-Rule-The-rule-options-of-Snort-consist-of-two-parts-a-keyword-and_fig1_281564631'>
+        <b> Improving Intrusion Detection System Based on Snort
+Rules for Network Probe Attacks Detection with
+Association Rules Technique of Data Mining </b>
+      </a>
+    </td>
+  </tr>
 </table>
