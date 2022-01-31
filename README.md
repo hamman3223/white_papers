@@ -45,4 +45,13 @@ Association Rules Technique of Data Mining </b>
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href='https://i.blackhat.com/USA-20/Wednesday/us-20-Artuso-An-Unauthenticated-Journey-To-Root-Pwning-Your-Companys-Enterprise-Software-Servers-wp.pdf'>
+        <b> An Unauthenticated Journey to Root :
+Pwning Your Company’s Enterprise Software Servers </b>
+      </a>
+    </td>
+  </tr>
+  
 </table>
